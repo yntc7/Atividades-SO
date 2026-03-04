@@ -1,4 +1,5 @@
 * Exercícios de Sistemas Operacionais
+
 Feito por: Lucas Sapucaia Pereira
 
 Exercícios:
